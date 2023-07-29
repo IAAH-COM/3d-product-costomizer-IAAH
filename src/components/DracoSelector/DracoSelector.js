@@ -25,6 +25,7 @@ const DracoSelector = props => {
   })
 
   return (
+     <img src="https://www.iaah.com/media/logo/websites/1/Iaah_New_Logo_1__1.png" alt="IAAH Logo">
     <FormControl fullWidth className={classes.formControl}>
       <InputLabel shrink variant="outlined" id="draco-selector">
         Select a compression version
